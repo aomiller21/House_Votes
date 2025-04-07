@@ -1,4 +1,4 @@
-name: Update CSV Every Minute
+name: Update CSV Every Five Minute
 
 on:
   schedule:
